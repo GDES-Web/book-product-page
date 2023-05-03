@@ -6,3 +6,11 @@
 @import 'sassy/nav';
 @import 'sassy/footer';
 @import 'sassy/header';
+@import 'sassy/breadcrumb';
+
+.content {
+    min-height: 500px;
+    width: 100vw;
+    background-color: $background-color_3;
+    ;
+}
